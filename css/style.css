@@ -61,6 +61,8 @@ img {
   background-color: white;
   margin: auto;
   border-radius: 10px;
+  -webkit-box-shadow: -13px 17px 58px -24px black;
+          box-shadow: -13px 17px 58px -24px black;
 }
 
 main {
